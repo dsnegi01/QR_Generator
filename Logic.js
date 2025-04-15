@@ -13,5 +13,4 @@ else {
         qrText.classList.remove('error');
     },1000);
 }
-
 }
